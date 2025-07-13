@@ -1,5 +1,4 @@
-## Go to 
-# view-source:http://cwcamxwl32pue3e6meg23gk9h8z4kmdvwgqx5b1z5-web.cybertalentslabs.com/
+## Go to  view-source:http://cwcamxwl32pue3e6meg23gk9h8z4kmdvwgqx5b1z5-web.cybertalentslabs.com/
 
 
 You will find a hint at the end of the page.
