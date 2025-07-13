@@ -16,6 +16,9 @@ admin' onload=alert(0) x=
 
 
 
+
+
+____________________________________________________
 # In this challenge, we are given an input field. When entering any text like admin, then viewing the page source, we find the input embedded inside the alt attribute of an <img> tag:
 `<span> <img style='width:20%;' src='./759511.jpg' alt='admin > 
 </span>
