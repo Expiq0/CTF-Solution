@@ -70,19 +70,18 @@ Each writeup here reflects my mindset:
 ---
 
 ## ✍️ Author
-
-**حيدر** — Cybersecurity Student & CTF Warrior ⚔️  
+ Cybersecurity Student & CTF Warrior ⚔️  
 Specialized in:
 - Web Exploitation 🕸️
 - Payload Engineering 🧨
 - Smart Bypasses 🧬
 
-📬 Reach me on GitHub or LinkedIn  
+📬 Reach me on GitHub  
 🎯 Always hunting for the next bug.
 
 ---
 
-## 🇸🇦 بالعربية: هنا أرض المعركة 👾
+##  بالعربية: هنا أرض المعركة 👾
 
 هذا المستودع يوثّق مغامراتي في عالم التحديات السيبرانية.  
 من اختراق أنظمة الويب، إلى تحليل الثغرات، إلى التفكير كما يفكر الحصن، ثم تجاوزه ✊
