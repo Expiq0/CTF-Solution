@@ -20,14 +20,14 @@ admin' onload=alert(0) x=
 
 ____________________________________________________
 # In this challenge, we are given an input field. When entering any text like admin, then viewing the page source, we find the input embedded inside the alt attribute of an <img> tag:
-`<span> <img style='width:20%;' src='./759511.jpg' alt='admin > 
+```<span> <img style='width:20%;' src='./759511.jpg' alt='admin > 
 </span>
-`
+```
 ###This reveals an input reflection vulnerability with improper context handling.
 
 By breaking out of the alt attribute using a single quote ', then injecting an onload event, we trigger our JavaScript payload:
 
-`admin' onload=alert(0) x=
-`
+```admin' onload=alert(0) x=
+```
 This successfully executes JavaScript, confirming the presence of a Reflected XSS vulnerability.
 
