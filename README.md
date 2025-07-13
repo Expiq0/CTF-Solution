@@ -35,3 +35,67 @@ Each writeup here reflects my mindset:
 
 ## 📚 Structure of the Repository
 
+
+---
+
+## 🌐 Platforms Covered
+
+✅ CyberTalents  
+✅ VulnTechFest (VTF)  
+✅ TryHackMe  
+✅ Hack The Box  
+✅ PicoCTF  
+✅ Custom/Internal CTFs  
+
+---
+
+## 🌟 Highlights of the Writeups
+
+- 🚨 Real-world inspired challenges
+- ✍️ Deep technical explanations
+- 💡 Unique payloads and bypass ideas
+- 🧪 Exploitation flow with optional automation
+
+---
+
+## 🧠 Sample CTF Thinking
+
+> Don't just try payloads.  
+> **Understand** the parser.  
+> **Abuse** the logic.  
+> **Outsmart** the filters.  
+> Flags aren't found.  
+> **They're taken.**
+
+---
+
+## ✍️ Author
+
+**حيدر** — Cybersecurity Student & CTF Warrior ⚔️  
+Specialized in:
+- Web Exploitation 🕸️
+- Payload Engineering 🧨
+- Smart Bypasses 🧬
+
+📬 Reach me on GitHub or LinkedIn  
+🎯 Always hunting for the next bug.
+
+---
+
+## 🇸🇦 بالعربية: هنا أرض المعركة 👾
+
+هذا المستودع يوثّق مغامراتي في عالم التحديات السيبرانية.  
+من اختراق أنظمة الويب، إلى تحليل الثغرات، إلى التفكير كما يفكر الحصن، ثم تجاوزه ✊
+
+🔹 أشارك فيه حلولًا مكتوبة لتحديات واقعية  
+🔹 بايلودات قوية وذكية تتخطى الحمايات  
+🔹 تحليلات عميقة لثغرات XSS, LFI, SQLi, RCE وأكثر
+
+كل تحدي هنا هو قصة، وكل فلاق هو انتصار ⚡  
+**الهجوم فن. والتحليل سلاح. والذكاء هو طريقك للفوز.**
+
+---
+
+> 💬 Want to contribute? Fork it, Hack it, Own it.
+>  
+> 🎯 Let’s make cyber-life more fun, more clever, and more dangerous — for the right reasons.
