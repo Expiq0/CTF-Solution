@@ -41,11 +41,7 @@ Each writeup here reflects my mindset:
 ## 🌐 Platforms Covered
 
 ✅ CyberTalents  
-✅ VulnTechFest (VTF)  
-✅ TryHackMe  
-✅ Hack The Box  
-✅ PicoCTF  
-✅ Custom/Internal CTFs  
+
 
 ---
 
